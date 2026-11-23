@@ -1,6 +1,6 @@
 # Open questions
 
-These questions come from ongoing research. Nothing here is decided. Tell us what you think, or what you would do differently, by [opening an issue](../../issues/new).
+These questions come from ongoing research. Nothing here is decided. [dilemmas.md](dilemmas.md) gives the trade-offs behind them in a shorter form. We will discuss some of them during the workshop, in the questions and answers session after the break and in the final wrap-up. Before or after the workshop, tell us what you think, or what you would do differently, by [opening an issue](../../issues/new). Give the number of the question in the issue title.
 
 ## Sampling and restriction decisions
 
