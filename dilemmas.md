@@ -1,16 +1,15 @@
 # Dilemmas
 
-Responding to contamination of food and farmland means trading one harm against another. Each table lists the dilemmas of one step of a response. None of them has a single right answer. Authorities make the choice, and tools such as DSS4NAFA, trufl and OREFA can show what each choice costs.
+Responding to contamination of food and farmland means trading one harm against another. Each table lists the dilemmas of one step of a response. None of them has a single right answer. Authorities make the choice, and tools such as DSS4NAFA, trufl and OREFA can show what each choice costs. An administrative unit is the area for which authorities decide, such as a municipality or a district, depending on the country.
 
 ## Sampling
 
 | Dilemma | One side | Other side | Example |
 |---|---|---|---|
 | **Speed against certainty** | Decide now on perishable food | Wait for more sampling rounds | Milk and leafy vegetables cannot wait. Stored grain can. |
-| **Sampler safety against information** | Keep sampling teams away from the source | Sample where contamination is highest | Sampling near the plant exposes the teams to radiation. |
+| **Sampler safety against information** | Keep sampling teams away from the source | Sample where contamination is highest | Sampling near the source of the release exposes the teams to radiation. |
 | **Easy access against representative samples** | Sample near roads and farms | Spread samples across the whole area | In simulations, samples clustered in a few places gave a wrong decision more than half of the time, and more samples did not help. |
-| **Coverage against efficiency** | Sample every community | Send samples where decisions are close | Communities that see no sampling lose trust, and smallholders can get less protection than large estates. |
-| **One sample per field against one per crop** | Sample each field once | Sample each crop in each field | One field can be safe for grain and unsafe for mushrooms. |
+| **Coverage against efficiency** | Sample every administrative unit | Send samples where decisions are close | People in an administrative unit with no samples lose trust in the response, and smallholders can get less protection than large estates. |
 
 ## Restriction
 
@@ -19,10 +18,10 @@ Responding to contamination of food and farmland means trading one harm against 
 | **Missed against needless restriction** | Restrict when in doubt | Restrict only when the evidence is clear | A missed restriction exposes consumers. A needless one destroys the value of a crop. |
 | **Health against economic value** | Protect health the same way everywhere | Avoid needless restrictions on valuable crops | In simulations, giving weight to economic value took samples away from health checks on valuable crops. |
 | **Food security against contamination** | Restrict a contaminated staple | Keep the staple available | Where a staple feeds subsistence farmers, a restriction can harm health more, through hunger and poor diet, than the dose it prevents. |
-| **Livelihoods against precaution** | Relocate people and stop farming | Keep communities and farming in place | At Fukushima, the harm from relocation and loss of farming was large compared with the dose avoided. |
+| **Livelihoods against precaution** | Relocate people and stop farming | Keep communities and farming in place | Relocation and the loss of farming harm health and livelihoods. That harm can be larger than the harm from the dose that relocation avoids. |
 | **Home-grown against market food** | Treat all produce the same | Check home-grown food more | Market produce passes later checks. Food that a household grows and eats has no second check. |
-| **Stigma against evidence** | Keep restrictions to reassure buyers | Lift restrictions when measurements allow | Buyers avoided Fukushima produce even below the limits ("fuhyo higai", harm from rumours). |
-| **Strict against lenient levels** | A strict level builds trust and helps trade | A lenient level restricts less food | Japan's limit for general food is 100 Bq/kg. The Codex guideline level is 1000 Bq/kg. |
+| **Stigma against evidence** | Keep restrictions to reassure buyers | Lift restrictions when measurements allow | Buyers can avoid produce from an affected region for years, even when measurements are below the limits. |
+| **Lower against higher permissible levels** | A lower level builds trust and helps trade | A higher level restricts less food | Permissible levels differ between countries and international guidelines, sometimes by a factor of 10. |
 | **Simple rule against all the evidence** | Decide from the samples only, with a rule that is easy to defend | Also use airborne surveys and models | The DSS4NAFA rule counts samples above the level and ignores how far above the level they are. |
 | **Coarse against fine units** | Restrict a whole municipality | Restrict only the contaminated part | Fine units restrict less clean land but need more samples. |
 | **Restriction against countermeasures** | Restrict the food | Treat the land and keep producing | Potassium fertiliser, deep ploughing, clean feed for livestock or a change of crop. |
