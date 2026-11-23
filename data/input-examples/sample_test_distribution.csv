@@ -1,0 +1,2 @@
+administrative_unit_name_or_AEZ,food_type,land_use,soil__type,lng,lat,date_analysis,radionuclide,food_contamination_in_Bq_per_kg
+some admin unit, rice, farm, loam, geo_references, date (yyyymmdd), Cs134 or Cs137 or both or some other,measurement in Bq_per_kg 
